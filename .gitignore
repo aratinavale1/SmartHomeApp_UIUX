@@ -1,0 +1,4 @@
+# Ignore Figma file backups, node_modules, and any other temporary files
+*.fig
+node_modules/
+.DS_Store
